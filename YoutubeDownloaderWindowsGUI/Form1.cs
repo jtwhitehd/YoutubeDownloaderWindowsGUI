@@ -84,7 +84,5 @@ namespace YoutubeDownloaderWindowsGUI
                 checkBox1.CheckState |= CheckState.Checked;
             }
         }
-
-
     }
 }
